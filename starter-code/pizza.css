@@ -66,6 +66,11 @@ body {
  * Buttons from:
  * http://codepen.io/TeshaR/pen/cdugG?editors=110
  */
+.hide{
+     visibility: hidden;
+
+}
+
 .btn {
   float: left;
   position: relative;
